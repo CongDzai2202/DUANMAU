@@ -1,0 +1,15 @@
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.deps.json
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.runtimeconfig.json
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.runtimeconfig.dev.json
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.dll
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\bin\Debug\net5.0\ref\1_DAL_DataAccessLayer.dll
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.pdb
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.AssemblyInfo.cs
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.dll
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\obj\Debug\net5.0\ref\1_DAL_DataAccessLayer.dll
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.pdb
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\1_DAL_DataAccessLayer\obj\Debug\net5.0\1_DAL_DataAccessLayer.genruntimeconfig.cache

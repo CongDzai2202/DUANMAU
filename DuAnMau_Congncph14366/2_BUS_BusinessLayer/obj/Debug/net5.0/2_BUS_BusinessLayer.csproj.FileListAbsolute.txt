@@ -1,0 +1,15 @@
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\bin\Debug\net5.0\2_BUS_BusinessLayer.deps.json
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\bin\Debug\net5.0\2_BUS_BusinessLayer.dll
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\bin\Debug\net5.0\ref\2_BUS_BusinessLayer.dll
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\bin\Debug\net5.0\2_BUS_BusinessLayer.pdb
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.dll
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\bin\Debug\net5.0\1_DAL_DataAccessLayer.pdb
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.AssemblyInfo.cs
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.csproj.CopyComplete
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.dll
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\obj\Debug\net5.0\ref\2_BUS_BusinessLayer.dll
+C:\Users\MTMS\source\repos\DuAnMau_Congncph14366\2_BUS_BusinessLayer\obj\Debug\net5.0\2_BUS_BusinessLayer.pdb
